@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RSSReader</string>
+    <string name="menu_reload">更新</string>
+    <string name="menu_add">追加</string><string name="menu_feeds">フィード管理</string>
+    <string name="add_feed">更新中</string>
+    <string name="ok">決定</string>
+    <string name="cancel">キャンセル</string>
+    <string name="default_url">http://twitter.com/statuses/user_timeline/spookiesjp.rss</string>
+    <string name="confirm_message">%1$sを削除します</string>
+    <string name="feeds_title">フィード管理</string>
+    <string name="confirm_title">確認</string>
+    
+</resources>
